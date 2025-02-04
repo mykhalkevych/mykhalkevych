@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1>Hi 👋, I'm Nazar</h1>
+<h3>An experienced Front-End Engineer with a strong background in front-end development. I have worked on a range of projects, web and mobile applications for various industries. With over 7 years of professional experience, I have a proven track record of successfully delivering high-quality software solutions.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
